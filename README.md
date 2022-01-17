@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R3dpand
-- 👀 I’m interested in learning New skills and Wirkung with people
+- 👀 I’m interested in learning New skills and Working with people
 - 🌱 I’m currently learning Python and C++ and a little Java Script
 During Projects i would Like some Tips and Tricks to learn
 And would Like to Work with people
